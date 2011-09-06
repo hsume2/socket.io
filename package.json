@@ -1,8 +1,8 @@
 {
     "name": "hsume2-socket.io"
   , "description": "The cross-browser WebSocket"
-  , "version": "0.6.171"
-  , "author": "Guillermo Rauch <guillermo@learnboost.com>"
+  , "version": "0.6.172"
+  , "author": "Henry Hsu <hhsu@zendesk.com>"
   , "contributors": [
         { "name": "Guillermo Rauch", "email": "rauchg@gmail.com" }
       , { "name": "Arnout Kazemier", "email": "info@3rd-eden.com" }
