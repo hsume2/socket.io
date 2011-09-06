@@ -1,11 +1,12 @@
 {
-    "name": "socket.io"
+    "name": "hsume2-socket.io"
   , "description": "The cross-browser WebSocket"
-  , "version": "0.6.17"
+  , "version": "0.6.171"
   , "author": "Guillermo Rauch <guillermo@learnboost.com>"
   , "contributors": [
         { "name": "Guillermo Rauch", "email": "rauchg@gmail.com" }
       , { "name": "Arnout Kazemier", "email": "info@3rd-eden.com" }
+      , { "name": "Henry Hsu", "email": "hhsu@zendesk.com" }
     ]
   , "licenses": [{
         "type": "MIT"
@@ -13,7 +14,7 @@
     }]
   , "repository": {
         "type": "git"
-      , "url": "http://github.com/learnboost/Socket.IO-node.git"
+      , "url": "http://github.com/hsume2/socket.io.git"
     }
   , "engine": [ "node >=0.1.102" ]
   , "main": "./index"
